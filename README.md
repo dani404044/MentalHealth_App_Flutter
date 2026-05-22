@@ -1,16 +1,38 @@
-# mentalhealth
+# MindEase – Mental Health App
 
-A new Flutter project.
+A Flutter-based mental health application focused on mindfulness, meditation, mood tracking, and emotional well-being.
 
-## Getting Started
+## ✨ Features
 
-This project is a starting point for a Flutter application.
+* Guided Breathing Exercises
+* Meditation & Mindfulness Activities
+* Mood Tracker
+* DASS Assessment
+* Firebase Authentication
+* Multi-language Support
+* Modern UI Design
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Tech Stack
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter & Dart
+* Firebase
+* SQLite
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/mental-health-app.git
+cd mental-health-app
+flutter pub get
+flutter run
+```
+
+## 👨‍💻 Developer
+
+### Danish Riaz
+
+Flutter Developer | Software Engineer
+
+## ⭐ Support
+
+If you like this project, give it a star on GitHub.
